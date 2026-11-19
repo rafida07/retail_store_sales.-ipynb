@@ -29,17 +29,17 @@ The dataset contains retail store sales information, including customer details,
 
 Retail-Store-Sales-Analysis/
 │
-├── Raw_Data/
-│   └── raw_data.csv
-│
-├── Cleaned_Data/
-│   ├── cleaned_data.csv
-│   └── cleaned_data.xlsx
-│
-├── Analysis/
-│   └── retail_store_sales_analysis.ipynb
-│
-└── README.md
+ ├── Raw_Data/
+   │   └── raw_data.csv
+   │
+  ├── Cleaned_Data/
+   │   ├── cleaned_data.csv
+   │   └── cleaned_data.xlsx
+   │
+ ├── Analysis/
+  │   └── retail_store_sales_analysis.ipynb
+  │
+  └── README.md
 
 ## Project Workflow
 
@@ -91,7 +91,7 @@ This project helped me gain practical experience in data cleaning, preprocessing
 
 # Author
 
-Rafida
+## Rafida k
 
 B.Com (Computer Applications) Graduate
 
