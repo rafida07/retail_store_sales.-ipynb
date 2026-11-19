@@ -26,21 +26,23 @@ Project Objectives
 The dataset contains retail store sales information, including customer details, product categories, quantities, discounts, and total spending.
 
 ## Project Structure
+  ## Project Structure
 
+```text
 Retail-Store-Sales-Analysis/
 │
- ├── Raw_Data/
-   │   └── raw_data.csv
-   │
-  ├── Cleaned_Data/
-   │   ├── cleaned_data.csv
-   │   └── cleaned_data.xlsx
-   │
- ├── Analysis/
-  │   └── retail_store_sales_analysis.ipynb
-  │
-  └── README.md
-
+├── Raw_Data/
+│   └── raw_data.csv
+│
+├── Cleaned_Data/
+│   ├── cleaned_data.csv
+│   └── cleaned_data.xlsx
+│
+├── Analysis/
+│   └── retail_store_sales_analysis.ipynb
+│
+└── README.md
+```
 ## Project Workflow
 
 ### Data Loading
