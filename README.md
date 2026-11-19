@@ -13,7 +13,7 @@ Project Objectives
 * Clean and transform the data.
 * Perform data analysis and generate insights.
 
-Tools Used
+## Tools Used
 
 * Python
 * Pandas
@@ -21,11 +21,11 @@ Tools Used
 * Microsoft Excel
 * GitHub
 
-Dataset Information
+## Dataset Information
 
 The dataset contains retail store sales information, including customer details, product categories, quantities, discounts, and total spending.
 
-Project Structure
+## Project Structure
 
 Retail-Store-Sales-Analysis/
 │
@@ -41,55 +41,55 @@ Retail-Store-Sales-Analysis/
 │
 └── README.md
 
-Project Workflow
+## Project Workflow
 
-Data Loading
+### Data Loading
 
 * Imported the raw CSV dataset into Jupyter Notebook.
 
-Data Inspection
+### Data Inspection
 
 * Checked rows, columns, data types and missing values.
 
-Data Cleaning and Preprocessing
+### Data Cleaning and Preprocessing
 
 * Handled missing values.
 * Removed duplicate records.
 * Standardized text values.
 * Corrected data types.
 
-Outlier Detection and Handling
+### Outlier Detection and Handling
 
 * Identified and handled outliers.
 
-Data Transformation
+### Data Transformation
 
 * Transformed and standardized selected columns.
 
-Cleaned Dataset
+### Cleaned Dataset
 
 * Exported the cleaned dataset into CSV and Excel formats.
 
-Data Analysis
+### Data Analysis
 
 * Performed analysis to understand sales patterns and customer spending.
 
-Project Status
+### Project Status
 
 Completed
 
-Upcoming Work
+# Upcoming Work
 
 * Further exploratory data analysis.
 * Data visualization.
 * Generating meaningful insights.
 * Final project presentation.
 
-Conclusion
+# Conclusion
 
 This project helped me gain practical experience in data cleaning, preprocessing, and analysis using Python and Excel. The raw retail store sales dataset was cleaned and prepared for further analysis.
 
-Author
+# Author
 
 Rafida
 
