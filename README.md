@@ -1,6 +1,6 @@
-Retail Store Sales Analysis
+# Retail Store Sales Analysis
 
-Project Overview
+## Project Overview
 
 This project focuses on cleaning, preprocessing, and analyzing a Retail Store Sales dataset using Python and Excel.
 
